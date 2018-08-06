@@ -6,4 +6,4 @@
 
  .logo {width:200px;}
  mark {background: #fed136;}
- @media (max-width:768px){body {text-align: center !important;}  .h2, h2 {font-size: 32px !important;} .intro-heading {font-size:32px !important;}}
+ @media (max-width:768px){body {text-align: center !important;}  .h2, h2 {font-size: 32px !important;} .intro-heading {font-size:32px !important;} section {padding:60px 0;}}
